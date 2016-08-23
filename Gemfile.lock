@@ -119,7 +119,7 @@ GEM
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
-    react-rails (1.8.0)
+    react-rails (1.8.1)
       babel-transpiler (>= 0.7.0)
       coffee-script-source (~> 1.8)
       connection_pool
@@ -175,7 +175,7 @@ DEPENDENCIES
   pg (~> 0.18)
   puma (~> 3.0)
   rails (~> 5.0.0)
-  react-rails
+  react-rails (~> 1.8.1)
   sass-rails (~> 5.0)
   spring
   spring-watcher-listen (~> 2.0.0)
